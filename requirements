@@ -6,3 +6,5 @@ Python Packages Used:
 - contextily
 - os
 - matplotlib.colors 
+- lonboard
+- palettable
