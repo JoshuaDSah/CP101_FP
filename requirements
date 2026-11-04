@@ -1,10 +1,8 @@
-Python Packages Used:
-
-- geopandas
-- pandas
-- matplotlib.pyplot
-- contextily
-- os
-- matplotlib.colors 
-- lonboard
-- palettable
+geopandas
+pandas
+matplotlib.pyplot
+contextily
+os
+matplotlib.colors 
+lonboard
+palettable
