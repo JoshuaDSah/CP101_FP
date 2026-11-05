@@ -2,6 +2,5 @@ geopandas
 pandas
 matplotlib
 contextily
-os
 lonboard
 palettable
