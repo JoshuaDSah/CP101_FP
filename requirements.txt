@@ -1,8 +1,7 @@
 geopandas
 pandas
-matplotlib.pyplot
+matplotlib
 contextily
 os
-matplotlib.colors 
 lonboard
 palettable
