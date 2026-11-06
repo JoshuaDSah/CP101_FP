@@ -218,3 +218,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/ca_block_groups_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/ca_block_groups_cleaned.csv
+data/processed/sf_scc_routes_bg_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/ca_block_groups_cleaned.csv
+data/processed/sf_scc_routes_bg_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/ca_block_groups_cleaned.csv
+data/processed/sf_scc_routes_bg_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/ca_block_groups_cleaned.csv
+data/processed/sf_scc_routes_bg_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/ca_block_groups_cleaned.csv
+data/processed/sf_scc_routes_bg_cleaned.csv
+data/processed/sf_scc_block_groups_cleaned.csv
+data/processed/ca_block_groups_cleaned.csv
+data/processed/sf_scc_routes_bg_cleaned.csv
