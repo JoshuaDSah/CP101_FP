@@ -14,3 +14,10 @@ We obtained our data by downloading our data directly from the following data so
 - sc_parcels.geojson: https://data.sccgov.org/dataset/Parcels/h53q-4i8r (County of Santa Clara Open Data Portal)
 - sc_future_resParcels.xlsx: https://housing.abag.ca.gov/data (MTC Bay Area Housing and Land Use Viewer)
 - avg_transit_speeds_by_route_tod.csv: https://data.ca.gov/@caltrans/average-transit-speeds-by-route (California Open Data Portal)
+
+#Python Packages Used:
+- geopandas
+- matplotlib.pyplot
+- os
+- pandas
+- re
